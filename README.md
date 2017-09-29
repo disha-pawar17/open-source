@@ -6,4 +6,4 @@ This free and open source software.
     a=(l * b)
     print("the area of rectangle is=",str(a))
     p=2*(l + b)
-    print("the perimeter of rectangle is=",str(p)
+    print("the perimeter of rectangle is=",str(p))
